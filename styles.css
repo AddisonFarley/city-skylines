@@ -1,0 +1,11 @@
+/* 
+Author: Addison Farley
+Date: 10/10/2022
+Program: Seattle Skylines
+Description: Use the canvas feature of HTML to create a city skyline program 
+*/
+
+#my-canvas
+{
+    border: 3px solid black;
+}
